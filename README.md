@@ -15,4 +15,4 @@
 
 ### 运行界面
 
-![interface](https://skecis-blog-1300426987.cos.ap-chengdu.myqcloud.com/blog_images/main.png)
+![interface](https://github.com/SkecisAI/DBS-Practice/blob/master/main.png)
